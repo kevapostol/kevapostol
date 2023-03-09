@@ -12,7 +12,7 @@ Nice to meet you! I lived most of my life in the Philippines 🇵🇭. I'm now c
 
 I am proficient in the following languages and tools:
 
-- **Programming Languages:** Python, JavaScript, C++, Java
+- **Programming Languages:** Python, JavaScript, TypeScript, C++, Java
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js, Django, Flask
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, Bash/ZSH, Jira, Slack, Confluence, Splunk, GitHub
